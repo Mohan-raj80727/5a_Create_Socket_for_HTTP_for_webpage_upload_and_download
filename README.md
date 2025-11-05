@@ -18,7 +18,7 @@ To write a PYTHON program for socket for HTTP for web page upload and download
 6.Stop the program
 <BR>
 ## Program 
-```
+```PYTHON
 import socket
 
 def send_request(host, port, request):
